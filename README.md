@@ -1,1 +1,5 @@
 # GITRepository
+FROM UBUNTU
+RUN apt-get update
+RUN apt-get install -y py
+
